@@ -1,0 +1,26 @@
+### Hi there 👋
+
+<!--
+**Benjaminz1000/Benjaminz1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+  
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
+- 🔭 I'm currently working on Explicitasset
+- 🌱 I'm currently learning Octafx📈📉
+- 👯 I'm looking to collaborate with Octafx📈📉
+- 🤔 I'm looking for help with Explicitasset
+- 💬 Ask me about crypto currency mining or crypto currency exchange
+- 📫 How to reach me: franklinokafor591@gmail.com or mrskimthoangnguyen@gmail.com
+- 
